@@ -1,0 +1,6 @@
+{
+  "name": "Rice Token Protocol",
+  "symbol": "RCP",
+  "description": "A soft-pegged Solana token linked to the global average price of rice exports.",
+  "image": "https://raw.githubusercontent.com/Rouzaire/Rice-Token-Protocal/refs/heads/main/LogoCoin.png"
+}
